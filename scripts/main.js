@@ -31,6 +31,12 @@ var topUserPostsSection = document.getElementById('top-user-posts-list');
 var recentMenuButton = document.getElementById('menu-recent');
 var myPostsMenuButton = document.getElementById('menu-my-posts');
 // var myTopPostsMenuButton = document.getElementById('menu-my-top-posts');
+
+// form post
+var recentMenuButton = document.getElementById('menu-recent');
+var myPostsMenuButton = document.getElementById('menu-my-posts');
+var myPostsMenuButton = document.getElementById('menu-my-posts');
+
 var listeningFirebaseRefs = [];
 
 /**
