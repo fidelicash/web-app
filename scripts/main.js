@@ -284,7 +284,7 @@ function startDatabaseQueries() {
 
   var fetchPosts = function(postsRef, sectionElement) {
     postsRef.on('child_added', function(data) {
-      console.log("oi1"+ JSON.stringify(data))
+      // console.log("oi1"+ JSON.stringify(data))
 
       var author = data.val().origin || 'Anonymous';
       var date = new Date(data.val().date);
