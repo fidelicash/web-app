@@ -1,4 +1,4 @@
-Firebase Realtime Database Quickstart
+Web APP based on Firebase Realtime Database Quickstart
 =============================
 
 The Firebase Database quickstart demonstrates how to connect to the Firebase Realtime Database and
@@ -11,6 +11,10 @@ Introduction
 [Read more about Firebase Database](https://firebase.google.com/docs/database/)
 
 Getting Started
+---------------
+1. npm i
+
+Getting Started Firebase
 ---------------
 
  1. Create your project on the [Firebase Console](https://console.firebase.google.com).
